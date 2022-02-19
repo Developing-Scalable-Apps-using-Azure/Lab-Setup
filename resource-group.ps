@@ -1,0 +1,11 @@
+# Login to Azure account
+az login
+
+# Set default Azure subscription
+az account set --subscription ”RG-Name”
+
+# Create Resource Group
+az group create --name MyResourceGroup --location eastus
+
+# get the current default subscription using list 
+az account list --query "[?isDefault]"
