@@ -36,6 +36,7 @@ az group create --name MyResourceGroup --location eastus
 Get the current default subscription using list 
 ```sh
 az account list --query "[?isDefault]"
-![image](https://user-images.githubusercontent.com/11691661/154816372-a1e5c1cc-4ca0-488e-bf78-737d200a0181.png)
 ```
+
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/11691661/154816560-f0cd1d1f-7db2-4ade-9e5a-ba0b06e68f5e.png">
 
