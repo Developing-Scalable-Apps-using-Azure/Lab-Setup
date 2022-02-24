@@ -44,8 +44,8 @@ az account list --query "[?isDefault]"
 
 ## Run a single container
 * Step 1 : dotnet new webapi --no-https
-       * dotnet build 
-       * dotnet run
+* dotnet build 
+* dotnet run
 * Step 2 : Add Dockerfile to your workspace = Use VS Code Pallette CRT+SHIFT+P 
 * Step 3: Build and run this container using Docker extention
 
