@@ -10,6 +10,7 @@
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * [Helm](https://helm.sh/docs/intro/install/) 
 * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+* [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 
 ## Prerequisites
