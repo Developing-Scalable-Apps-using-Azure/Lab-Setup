@@ -11,6 +11,7 @@
 * [Helm](https://helm.sh/docs/intro/install/) 
 * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 * [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+* [Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
 
 ## Prerequisites
