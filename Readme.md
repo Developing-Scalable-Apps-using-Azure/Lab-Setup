@@ -6,11 +6,10 @@
 * [Git](https://git-scm.com/downloads)
 * [VS Code](https://code.visualstudio.com/)
 * [Extentions](https://code.visualstudio.com/docs/editor/extension-marketplace) - c#, Azure Tools, Kubernetes, Helm, Docker, Git Lens
-* [Visual Studio 2019](https://visualstudio.microsoft.com/vs/older-downloads/)
+* [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * [Helm](https://helm.sh/docs/intro/install/) 
 * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
-* [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 * [Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
 
