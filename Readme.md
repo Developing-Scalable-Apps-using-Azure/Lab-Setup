@@ -7,6 +7,7 @@
 * [VS Code](https://code.visualstudio.com/)
 * [Extentions](https://code.visualstudio.com/docs/editor/extension-marketplace) - c#, Azure Tools, Kubernetes, Helm, Docker, Git Lens
 * [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
+* [.NET SDK 6.x (LTS)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * [Helm](https://helm.sh/docs/intro/install/) 
 * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
