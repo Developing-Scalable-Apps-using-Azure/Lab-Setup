@@ -27,19 +27,20 @@ az login
 
 Set default Azure subscription
 ```sh
-az account set --subscription ”<Your Name>-RG”
+az account set --subscription ”<Your Subscription Name>”
 ```
 
 Create Resource Group
 ```sh
-az group create --name MyResourceGroup --location eastus
+az group create -n <your-name>-labs-appservice -l eastus --tags courselabs=azure 
 ```
 
 Get the current default subscription using list 
 ```sh
 az account list --query "[?isDefault]"
 ```
-<img width="470" alt="image" src="https://user-images.githubusercontent.com/11691661/154816560-f0cd1d1f-7db2-4ade-9e5a-ba0b06e68f5e.png">
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/11691661/224709571-c02b2308-dad7-40e7-ac50-016dd3a6b2b0.png">
+
 
 
 
