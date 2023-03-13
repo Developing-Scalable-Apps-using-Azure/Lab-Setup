@@ -1,5 +1,7 @@
 ## Welcome to the course - Developing Scalable Applications using Azure
 
+## Courseware: https://drive.google.com/drive/folders/1BhYqI0pAeBBpXyBRY-1osOhcdp3bPy8F?usp=sharing 
+
 ### The below description is to guide you on the lab setup required for this course.
 
 ## List of softwares to be installed
